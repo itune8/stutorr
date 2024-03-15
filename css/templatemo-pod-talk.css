@@ -185,6 +185,9 @@ main {
   height: 100%;
   opacity: 0.85;
 }
+#section_3{
+padding-top: 50px;
+}
 
 .section-overlay + .container {
   position: relative;
@@ -895,10 +898,10 @@ justify-content: center;
   RESPONSIVE STYLES               
 -----------------------------------------*/
 @media screen and (min-width: 2160px) {
-	.hero-section {
-	  background-size: 100% 90%;
-	  /* T o o p l a t e . c o m   C u s t o m i z e d */
-	}
+    .hero-section {
+      background-size: 100% 90%;
+      /* T o o p l a t e . c o m   C u s t o m i z e d */
+    }
 }
 
 
@@ -909,10 +912,10 @@ justify-content: center;
 }
 
 @media screen and (max-width: 1240px) {
-	.hero-section {
-	  background-size: 116%;
-	  /* T o o p l a t e . c o m   C u s t o m i z e d */
-	}
+    .hero-section {
+      background-size: 116%;
+      /* T o o p l a t e . c o m   C u s t o m i z e d */
+    }
 }
 
 @media screen and (max-width: 991px) {
@@ -941,9 +944,9 @@ justify-content: center;
   }
   
   .hero-section {
-	  background-size: 160% 66%; 
-	  /* T o o p l a t e . c o m   C u s t o m i z e d */
-	}
+      background-size: 160% 66%; 
+      /* T o o p l a t e . c o m   C u s t o m i z e d */
+    }
 
   .section-padding {
     padding-top: 50px;
@@ -995,10 +998,10 @@ justify-content: center;
 }
 
 @media screen and (max-width: 540px) {
-	.hero-section {
-  		background-size: 180% 65%;
-		/* T o o p l a t e . c o m   C u s t o m i z e d */
-	}
+    .hero-section {
+          background-size: 180% 65%;
+        /* T o o p l a t e . c o m   C u s t o m i z e d */
+    }
 
   .custom-block .custom-block-top {
     flex-direction: column;
